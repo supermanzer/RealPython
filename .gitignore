@@ -1,0 +1,8 @@
+
+###########################################################################
+#                       Real Pytho  Git Ignore Configuration              #
+###########################################################################
+
+# Ignoring checkpoints saved by Jupyter Notebook
+.ipynb_checkpoints/
+
